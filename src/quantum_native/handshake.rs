@@ -1,0 +1,1 @@
+//! Quantum-native handshake - indistinguishable from noise

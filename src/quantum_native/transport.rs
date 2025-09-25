@@ -1,0 +1,1 @@
+//! Quantum-native transport - continuous bidirectional stream
